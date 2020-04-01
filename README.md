@@ -25,7 +25,7 @@ A modular Telegram UserBot for Python which uses the [Telethon][telethon] librar
 Clone the repository.
 
 ```sh
-$ git clone https://github.com/kandnub/TG-UserBot/
+$ git clone https://github.com/salmanpdr/TG-UserBot/
 ```
 
 Change the current directory to the cloned one.
